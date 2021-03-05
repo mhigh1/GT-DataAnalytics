@@ -42,14 +42,14 @@ There is no correlation between spending per student and school performance. The
 ### Scores by School Size
 Schools with large student populations have lower average reading and math scores, in addition to significantly lower passing percentages in math, reading, and overall. There is no significant difference in performance between schools with small or medium student populations. 
 
-|School Size | Avg. Math Score | Avg. Reading Score | % Passing Math | $ Passing Reading | $ Overall Passing |
+|School Size | Avg. Math Score | Avg. Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
 |---:|---:|---:|---:|---:|---:|
 | Small (<1000) | 83.822 | 83.930 | 93.550 | 96.099 | 89.884 |
 | Medium (1000-2000) | 83.375 | 83.864 | 93.600 | 96.791 | 90.622 |
 | Large (2000-5000) | 77.746 | 81.344 | 69.963 | 82.767 | 58.286 |
 
 ### Scores by School Type
-Charter schools have higher percentages of students passing math, reading, and overall vs students in District schools.
+Charter schools have higher percentages of students passing math, reading, and overall verses students in District schools.
 
 | School Type | Avg. Math Score | Avg. Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
 |---:|---:|---:|---:|---:|---:|
