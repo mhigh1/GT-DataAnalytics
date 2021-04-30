@@ -31,7 +31,7 @@ pip3 install webdriver_manager
 ## Walkthrough
 1. Start up the flask app using the [app.py](app.py) script.
 ```
-python .\appy.py
+python .\app.py
 ```
 2. In the browser, navigate to the newly started web server.
 3. Click the "Scrape New Data" button to invoke web scraping and load the latest data.
