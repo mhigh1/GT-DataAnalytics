@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-### Add mapbox.com API Key to [config.js](/static/js/config.js)
+### Add mapbox.com API Key to [config.js](static/js/config.js)
 ```javascript
 const API_KEY = "INSERT_YOUR_API_KEY";
 ```
